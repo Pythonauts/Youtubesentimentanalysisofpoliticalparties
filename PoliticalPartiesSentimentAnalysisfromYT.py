@@ -9,7 +9,7 @@ from googleapiclient.errors import HttpError
 nltk.download('punkt')
 
 # Replace with your YouTube Data API key
-API_KEY = 'AIzaSyCJ8vS6pQwChsMQZjAYBmVztRANFPutOPY'
+API_KEY = 'Secret_Key_enter'
 
 
 # Function to clean YouTube comments
